@@ -1,0 +1,4 @@
+2020-01-03 10:01:05,275  INFO [main] Log4jdemo:16 - application started
+2020-01-03 10:09:42,613  INFO [main] Log4jdemo:16 - application started
+2020-01-03 10:09:42,634  INFO [main] Log4jdemo:21 - check the title
+2020-01-03 10:09:42,634  INFO [main] Log4jdemo:25 - correct page opened
